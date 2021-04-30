@@ -6,7 +6,7 @@
     "createdAt": "date",
     "comments": "Comment[]"
   },
-  "Comment": {
+  "Comment": [{
     "took": 4,
     "timed_out": false,
     "shards": {
@@ -1563,5 +1563,5 @@
             }
         ]
     }
-}
+}]
 }
